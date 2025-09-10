@@ -16,37 +16,7 @@ studentAge = tmpStudentAge;
 isFemale = tmpIsFemale;
 datamatikerTeam = tmpDatamatikerTeam;
 
-
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

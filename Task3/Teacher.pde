@@ -2,9 +2,6 @@ class Teacher {
 
 
 
-
-
-
   //Teacher student fields
   String teacherName;
   int teacherAge;
@@ -19,4 +16,8 @@ class Teacher {
     teacherAge = tmpTeacherAge;
     isFemale = tmpIsFemale;
   }
+  
+    void setup(){}
+
+  
 }
